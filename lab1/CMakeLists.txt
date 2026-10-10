@@ -1,6 +1,6 @@
 cmake_minimum_required(VERSION 4.1)
 
-project("practice_1" CXX)
+project("lab1" CXX)
 
 add_executable("lab1")
 
