@@ -6,6 +6,8 @@
 #include <random>
 #include <type_traits>
 #include <cstddef>
+#include <string>
+#include <utility>
 
 
 template<typename T> class Matrix {
